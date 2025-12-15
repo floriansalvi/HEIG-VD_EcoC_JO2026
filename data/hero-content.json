@@ -1,0 +1,36 @@
+[
+    {
+        "txt": "En savoir plus sur les sports olympiques d'hiver avec les Explications des sports", 
+        "img": {
+            "src": "/images/hero1.jpeg",
+            "alt": "Allianz illustration"
+        },
+        "button": {
+            "text": "Regarder maintenant",
+            "url": "https://www.olympics.com/fr/milano-cortina-2026/allianz-sport-explainers",
+            "inverted": true,
+            "icon": {
+                "title": "ph:arrow-right",
+                "size": 24,
+                "color": "inherit"
+            }
+        }
+    },
+    {
+        "txt": "Débloquez l'accès privilégié à Milano Cortina 2026", 
+        "img": {
+            "src": "/images/hero2.jpeg",
+            "alt": "Iceskating illustration"
+        },
+        "button": {
+            "text": "Rejoignez-nous dès maintenant",
+            "url": "https://www.olympics.com/en/sign-in?origin=https%3A%2F%2Fwww.olympics.com%2Fen%2Fmilano-cortina-2026&entry_point_type=regular_cta&entry_point_tag=BAU&template=mico-2026-gtwa",
+            "inverted": true,
+            "icon": {
+                "title": "ph:arrow-right",
+                "size": 24,
+                "color": "inherit"
+            }
+        }
+    }
+]
