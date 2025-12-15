@@ -1,7 +1,27 @@
-:root {
-  /* Couleurs */
-  --bleu: #01647C;
-  --vert: #019482;
-  --blanc: #F4F6F6;
-  --gris: #E0EEEC;
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+@layer base {
+  :root {
+    --font-primary: "Poppins", sans-serif;
+    --color-blue: #01647C;
+    --color-dark-blue: #00313D;
+    --color-light-green: #E7F5EF;
+    --color-dark-green: #019482;
+    --color-white: #F4F6F6;
+  }
+}
+
+@layer base {
+  body {
+    background-color: var(--color-white);
+    font-family: var(--font-primary);
+  }
+
+
+  a {
+    @apply text-black no-underline hover:no-underline;
+  }
+ 
 }
