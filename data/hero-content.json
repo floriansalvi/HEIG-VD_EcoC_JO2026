@@ -32,5 +32,22 @@
                 "color": "inherit"
             }
         }
+    },
+    {
+        "txt": "Votre guide ultime de cadeaux est arrivé", 
+        "img": {
+            "src": "/images/hero3.jpeg",
+            "alt": "Boutique illustration"
+        },
+        "button": {
+            "text": "Acheter maintenant",
+            "url": "https://shop.olympics.com/fr/x-8409?_s=bm-fi-ioc-prtsite-Gifting25-december25-am&loc=fr-FR",
+            "inverted": true,
+            "icon": {
+                "title": "ph:arrow-right",
+                "size": 24,
+                "color": "inherit"
+            }
+        }
     }
 ]

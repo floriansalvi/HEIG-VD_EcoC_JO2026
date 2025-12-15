@@ -1,4 +1,5 @@
 <script setup>
+import TheCountdown from '../components/The/TheCountdown.vue';
 import TheHeroSection from '../components/The/TheHeroSection.vue';
 import heroElements from '../data/hero-content.json'
 </script>
@@ -8,7 +9,7 @@ import heroElements from '../data/hero-content.json'
     <TheHeroSection
         :elements="heroElements"
     />
-    <!-- add Timer -->
+    <TheCountdown/>
   </div>
 </template>
 

@@ -1,0 +1,61 @@
+[
+    {
+        "category": "Milano Cortina 2026",
+        "question": "Où et quand les Jeux Olympiques d'hiver 2026 se dérouleront-ils ?",
+        "answer": "Les Jeux Olympiques d'hiver de Milano Cortina 2026 se dérouleront du 6 au 22 février 2026.\n\nLes Jeux Paralympiques d'hiver se dérouleront du 6 au 15 mars 2026."
+    },
+    {
+        "category": "Milano Cortina 2026",
+        "question": "Comment obtenir des billets pour les Jeux d'hiver 2026 ?",
+        "answer": "Il existe deux façons principales de regarder les Jeux Olympiques d'hiver 2026 en direct en Italie : les billets seuls et les forfaits hospitalité avec billets. Vous trouverez où acheter vos billets sur notre page",
+        "link": {
+            "href": "https://www.olympics.com/fr/milano-cortina-2026-ticketing-and-hospitality",
+            "txt": "Comment assister aux Jeux d'hiver."
+        }
+    },
+    {
+        "category": "Milano Cortina 2026",
+        "question": "Comment se qualifier pour les Jeux d'hiver 2026 ?",
+        "answer": "La façon de se qualifier pour les Jeux Olympiques d'hiver est différente pour chaque sport. Au final, ce sont les Comités nationaux olympiques qui ont le dernier mot sur la composition de l'équipe olympique et qui l'annonceront en janvier 2026. Vous pouvez découvrir les modalités de qualification pour chaque sport ici et sur les sites internet des fédérations internationales."
+    },
+    {
+        "category": "Milano Cortina 2026",
+        "question": "Combien de pays participeront aux Jeux d'hiver 2026 ?",
+        "answer": "Plus de 3500 athlètes de 93 pays s'affronteront pour remporter 195 médailles dans 16 disciplines olympiques et six sports paralympiques."
+    },
+    {
+        "category": "Milano Cortina 2026",
+        "question": "Quelle est la mascotte des Jeux d'hiver 2026 ?",
+        "answer": "Tina et Milo sont respectivement les mascottes des Jeux Olympiques et Paralympiques d'hiver. Leurs noms sont des diminutifs de ceux des deux villes hôtes : Tina pour Cortina et Milo pour Milano."
+    },
+    {
+        "category": "Milano Cortina 2026",
+        "question": "Quels sports seront disputés aux Jeux Olympiques d’hiver de Milano Cortina 2026 ?",
+        "answer": "Au total, 16 sports seront au programme des Jeux Olympiques d’hiver de Milano Cortina 2026 : biathlon, bobsleigh, combiné nordique, curling, hockey sur glace, luge, patinage artistique, patinage de vitesse, patinage de vitesse sur piste courte (short track), saut à ski, skeleton, ski acrobatique, ski alpin, ski de fond, ski-alpinisme et snowboard."
+    },
+    {
+        "category": "Milano Cortina 2026",
+        "question": "Où et comment regarder les Jeux Olympiques d’hiver de Milano Cortina 2026 ?",
+        "answer": "Les Jeux Olympiques d’hiver seront diffusés en direct à travers le monde. Les diffuseurs sont différents en fonction du lieu où vous vous situez, veuillez vous diriger vers votre fournisseur local pour plus d’informations sur la retransmission des Jeux."
+    },
+    {
+        "category": "Milano Cortina 2026",
+        "question": "Combien de sites de compétition y aura-t-il aux Jeux Olympiques d’hiver de Milano Cortina 2026 ?",
+        "answer": "Au total, 15 différents sites accueilleront les compétitions des Jeux Olympiques d’hiver de Milano Cortina 2026 : Milano Ice Skating Arena, Milano San Siro Olympic Stadium, Milano Santagiulia Ice Hockey Arena, Milano Speed Skating Stadium, Milano Rho Ice Hockey Arena, Cortina Curling Olympic Stadium, Cortina Sliding Centre, Tofane Alpine Skiing Centre, Anterselva Biathlon Arena, Stelvio Ski Centre, Livigno Snow Park, Livigno Aerials & Moguls Park, Tesero Cross-Country Skiing Stadium, Predazzo Ski Jumping Stadium et Verona Olympic Arena."
+    },
+    {
+        "category": "Milano Cortina 2026",
+        "question": "Quels sont les nouveaux sports des Jeux Olympiques d’hiver de Milano Cortina 2026 ?",
+        "answer": "Le ski-alpinisme est le seul sport qui fera ses débuts à Milano Cortina 2026. Les athlètes de skimo doivent parcourir une portion ascendante et descendante à skis et alternent avec des parties à pied en montée, les skis attachés sur le dos. Les médailles seront attribuées en sprint hommes et femmes, ainsi qu’en relais mixte. Au-delà des nouveaux sports, de nouvelles épreuves seront ajoutées à des sports déjà présents au programme des JO : double femmes en luge, grand tremplin femmes en saut à ski, relais mixte en skeleton, bosses parallèles hommes et femmes en ski acrobatique et combiné par équipes en ski alpin."
+    },
+    {
+        "category": "Jeux Olympiques",
+        "question": "Où se dérouleront les Jeux Olympiques 2028 et 2032 ?",
+        "answer": "Los Angeles, aux États-Unis, accueillera les prochains Jeux Olympiques du 14 au 30 juillet 2028. Brisbane, en Australie, accueillera les Jeux en 2032."
+    },
+    {
+        "category": "Jeux Olympiques",
+        "question": "Qui a inventé les Jeux Olympiques ?",
+        "answer": "L'histoire des Jeux remonte à l'Antiquité et prend ses racines en Grèce dans le Péloponnèse, il y a environ 3000 ans. Des concours sportifs organisés à Olympie avaient lieu tous les quatre ans et ont pris le nom de Jeux Olympiques. On ne sait pas précisément quand ils ont commencé, mais la date de 776 av. J.-C. est souvent citée dans les sources écrites. Les raisons exactes de la naissance des Jeux restent aujourd'hui inconnues car l'histoire se mêle à la mythologie. En 1894, Pierre de Coubertin lance son projet de rénovation des Jeux Olympiques et en 1896 a lieu la célébration des 1ers Jeux de l'ère moderne, à Athènes."
+    }
+]
