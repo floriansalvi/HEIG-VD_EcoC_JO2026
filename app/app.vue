@@ -11,7 +11,7 @@ import ContentView from '../views/ContentView.vue';
       Tailwind fonctionne !
     </h1>
   </div>
-  <div class="flex flex-col gap-10">
+  <div class="flex flex-col gap-4 md:gap-8 lg:gap-10">
     <HeaderView/>
     <HeroView/>
     <ContentView/>

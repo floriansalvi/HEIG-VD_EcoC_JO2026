@@ -4,7 +4,7 @@ import BaseLinkCard from '../Base/BaseLinkCard.vue';
 const props = defineProps({
   title: {
     type: String,
-    default: "Enjoy the games"
+    default: "Profitez des Jeux"
   }
 })
 
@@ -21,9 +21,13 @@ const items = [
 </script>
 
 <template>
-  <section class="category-section">
-    <h2>{{ title }}</h2>
-    <div class="cards-grid">
+  <section class="w-full max-w-[1362px] mx-auto px-4 md:px-0 flex flex-col gap-6">
+    
+    <h2 class="font-[Poppins] font-bold text-[28px] md:text-[32px] text-[var(--color-dark-blue)]">
+      {{ title }}
+    </h2>
+
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 md:gap-[23px] w-full">
       <BaseLinkCard
         v-for="(item, index) in items"
         :key="index"
@@ -35,19 +39,3 @@ const items = [
     </div>
   </section>
 </template>
-
-<style scoped>
-.category-section {
-  display: flex;
-  flex-direction: column;
-  gap: 5px;
-  width: 100%;
-}
-
-.cards-grid {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 23px;
-  width: 100%;
-}
-</style>

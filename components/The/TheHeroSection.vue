@@ -28,6 +28,7 @@ const next = () => {
 </script>
 
 <template>
+    <div class="w-full max-w-[1362px] mx-auto px-4 md:px-0 mb-8 relative group">
     <div class="relative w-full max-w-[1362px] mx-auto h-[300px] md:h-auto md:aspect-[2/1] rounded-[15px] overflow-hidden shadow-md group bg-gray-900">
         
         <transition
@@ -91,6 +92,7 @@ const next = () => {
                 <BaseIcon title="ph:arrow-right" :size="24" class="hidden md:block" color="var(--color-blue)" />
             </button>
         </template>
+    </div>
     </div>
 </template>
 

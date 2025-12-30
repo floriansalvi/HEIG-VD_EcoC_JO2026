@@ -35,50 +35,42 @@ const handleClick = () => {
 <template>
   <button 
     @click="handleClick()" 
-    class="link-card"
+    :class="[
+      'w-full h-[96px] flex items-center gap-3',
+      'px-6 py-4 md:px-8 md:py-6',
+      'rounded-[16px] border-none cursor-pointer',
+      
+      'transition-all duration-200 ease-out hover:scale-[1.02] active:scale-[0.98]',
+      'shadow-sm hover:shadow-md',
+      
+      'bg-card-conic text-white'
+    ]"
   >
-    <BaseIcon v-if="icon" :title="icon.title" :size="icon.size" color="var(--color-white)" />
-    <span class="text">{{ text }}</span>
+    <div class="shrink-0 flex items-center justify-center">
+        <BaseIcon 
+            v-if="icon" 
+            :title="icon.title" 
+            :size="icon.size || 35" 
+            color="white" 
+        />
+    </div>
+
+    <span class="font-[Poppins] font-semibold text-[18px] md:text-[20px] text-left leading-tight">
+        {{ text }}
+    </span>
   </button>
 </template>
 
 <style scoped>
-.link-card {
-  display: flex;
-  align-items: center;
-  gap: 12px;
-  padding: 24px 32px;
-  width: 300px;
-  height: 96px;
-  border-radius: 16px;
-  border: none;
-  cursor: pointer;
-  
-  /* Dégradé de fond */
+.bg-card-conic {
   background: 
     conic-gradient(from 90deg, rgba(1, 148, 130, 0.4) 0%, rgba(1, 100, 124, 0.4) 51%, rgba(1, 148, 130, 0.4) 100%),
     var(--color-blue);
-  
-  transition: all 0.2s ease;
 }
 
-.link-card:hover {
+.bg-card-conic:hover {
   background: 
     conic-gradient(from 90deg, rgba(1, 148, 130, 0.6) 0%, rgba(1, 100, 124, 0.6) 51%, rgba(1, 148, 130, 0.6) 100%),
     var(--color-blue);
-}
-
-.icon {
-  flex-shrink: 0;
-  width: 35px;
-  height: 35px;
-  color: var(--color-white);
-}
-
-.text {
-  font-family: var(--font-primary);
-  font-size: 20px;
-  font-weight: 600;
-  color: var(--color-white);
 }
 </style>

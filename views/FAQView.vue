@@ -30,7 +30,7 @@ const setCategory = (category) => {
         
         <div class="w-full md:w-[50%] flex flex-col gap-6">
             
-            <h2 class="font-[Poppins] font-bold text-[36px] text-[var(--color-dark-blue)] leading-tight">
+            <h2 class="font-[Poppins] font-bold text-[32px] text-[var(--color-dark-blue)] leading-tight">
                 Frequently Asked Questions
             </h2>
 
