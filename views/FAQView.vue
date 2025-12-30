@@ -26,7 +26,7 @@ const setCategory = (category) => {
 <template>
   <section class="w-full max-w-[1362px] mx-auto px-5 py-12">
     
-    <div class="flex flex-row md:flex-row items-start gap-10">
+   <div class="flex flex-col md:flex-row items-start gap-10">
         
         <div class="w-full md:w-[50%] flex flex-col gap-6">
             
