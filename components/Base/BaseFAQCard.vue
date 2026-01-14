@@ -28,25 +28,23 @@ const changeOpenState = () => {
 
 <template>
   <article>
-    <div>
         <h4>{{ question }}</h4>
+        <div>
+            <BaseIcon
+                v-if="!opened"
+                @click="changeOpenState"
+                title="mdi:chevron-down"
+                ariaLabel="afficher la réponse"
+            />
+            <BaseIcon
+                v-else
+                @click="changeOpenState"
+                title="mdi:chevron-up"
+                ariaLabel="cacher la réponse"
+            />
+        </div>
         <p v-show="opened" v-html="answer.replace(/\n\n/g, '<br>')"></p>
         <a v-if="link.href" v-show="opened" :href="link.href" target="_blank">{{ link.txt }}</a>
-    </div>
-    <div>
-        <BaseIcon
-            v-if="!opened"
-            @click="changeOpenState"
-            title="mdi:chevron-down"
-            ariaLabel="afficher la réponse"
-        />
-        <BaseIcon
-            v-else
-            @click="changeOpenState"
-            title="mdi:chevron-up"
-            ariaLabel="cacher la réponse"
-        />
-    </div>
   </article>
 </template>
 

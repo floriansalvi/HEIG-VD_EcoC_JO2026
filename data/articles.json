@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Programme de la Coupe du monde à Courchevel",
+        "category": "Ski-Alpinisme",
+        "img": {
+            "src": "/images/article1.jpeg",
+            "alt": "Emily Harrop",
+            "copyright": "Getty Images"
+        },
+        "link": "https://www.olympics.com/fr/milano-cortina-2026/actualite/coupe-du-monde-ski-alpinisme-2025-2026-programme-etape-courchevel-calendrier-date-heure-comment-regarder-en-direct"
+    },
+    {
+        "title": "Avec Andrea Bocelli et Mariah Carey, quels artistes à la cérémonie d'ouverture des JO 2026 ?",
+        "category": "",
+        "img": {
+            "src": "/images/article2.jpeg",
+            "alt": "Andrea Bocelli, Laura Pausini et Mariah Carey",
+            "copyright": "Getty images"
+        },
+        "link": "https://www.olympics.com/fr/milano-cortina-2026/actualite/jo-hiver-milano-cortina-2026-liste-artistes-participants-ceremonie-ouverture-san-siro-olympic-stadium-mariah-carey-laura-pausini"
+    },
+    {
+        "title": "Les courses du jour à Ruhpolding",
+        "category": "Biathlon",
+        "img": {
+            "src": "/images/article3.jpeg",
+            "alt": "Course à Oberhof",
+            "copyright": "Svoboda/IBU"
+        },
+        "link": "https://www.olympics.com/fr/milano-cortina-2026/actualite/coupe-monde-biathlon-ruhpolding-2025-2026-calendrier-complet-programme-courses-week-end-dates-heures-comment-regarder-en-direct"
+    }
+]
