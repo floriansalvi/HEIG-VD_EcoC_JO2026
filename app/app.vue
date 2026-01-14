@@ -1,8 +1,9 @@
 <script setup>
-import FAQView from '../views/FAQView.vue';
 import HeaderView from '../views/HeaderView.vue';
 import HeroView from '../views/HeroView.vue';
 import ContentView from '../views/ContentView.vue';
+import ArticlesView from '../views/ArticlesView.vue';
+import FAQView from '../views/FAQView.vue';
 </script>
 
 <template>
@@ -15,6 +16,7 @@ import ContentView from '../views/ContentView.vue';
     <HeaderView/>
     <HeroView/>
     <ContentView/>
+    <ArticlesView/>
     <FAQView/>
   </div>
 </template>
