@@ -3,7 +3,7 @@ import TheCategorySection from '../components/The/TheCategorySection.vue';
 </script>
 
 <template>
-  <section class="w-full max-w-[1362px] mx-auto px-5 pb-10">
+  <section class="w-full max-w-[1362px] mx-auto px-5">
     <TheCategorySection/>
   </section>
 </template>

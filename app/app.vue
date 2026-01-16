@@ -1,6 +1,5 @@
 <script setup>
 import HeaderView from '../views/HeaderView.vue';
-import HeroView from '../views/HeroView.vue';
 import ContentView from '../views/ContentView.vue';
 import ArticlesView from '../views/ArticlesView.vue';
 import FAQView from '../views/FAQView.vue';
@@ -13,9 +12,8 @@ import BaseBanner from '../components/Base/BaseBanner.vue';
 
 <template>
 
-  <div class="flex flex-col gap-4 md:gap-8 lg:gap-10">
+  <div class="flex flex-col gap-12 md:gap-14 lg:gap-20">
     <HeaderView/>
-    <HeroView/>
     <ContentView/>
     <BaseCTACard
       :title="cta[0].title"
@@ -41,6 +39,7 @@ import BaseBanner from '../components/Base/BaseBanner.vue';
       :title="banners[1].title"
       :img="banners[1].img"
       :button="banners[1].button"
+      presented-by="/images/presented_by.png"
     />
     <BaseCTACard
       :title="cta[2].title"

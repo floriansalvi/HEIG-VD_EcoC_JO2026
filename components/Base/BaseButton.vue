@@ -6,8 +6,7 @@ const props = defineProps({
     text: { type: String, default: "" },
     url: { type: String, default: "" },
     inverted: { type: Boolean, default: false },
-    icon: { type: Object, default: null },
-    fontSize: { type: String, default: "18px" }
+    icon: { type: Object, default: null }
 })
 
 const { navigateTo } = useNavigation()
@@ -21,13 +20,14 @@ const handleClick = () => {
   <div>
     <button 
         @click="handleClick()" 
-        :style="{ fontSize: fontSize }"
         :class="[
             'inline-flex justify-center items-center gap-3',
-            'py-[13px] pl-5 pr-2.5',
+            'py-[6px] md:py-[12px] pl-5',
+            icon ? 'pr-2.5' : 'pr-5',
             'rounded-full border-none cursor-pointer',
             
             'font-[Poppins] font-normal',
+            'text-[1rem] md:text-[1.125rem]',
             'transition-all duration-200 ease-out',
 
             inverted 

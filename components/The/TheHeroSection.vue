@@ -53,7 +53,7 @@ const next = () => {
 
         <div class="absolute inset-0 z-20 flex flex-col justify-end items-start p-4 md:p-8 lg:p-12 pb-[40px] md:pb-[40px] lg:pb-[50px]">
             
-            <div class="w-full max-w-full md:max-w-[85%] mb-3 md:mb-5">
+            <div class="w-full max-w-full md:max-w-[85%] mb-3 md:mb-5 ">
                 <p class="font-[Poppins] font-semibold text-white whitespace-pre-wrap drop-shadow-lg
                           text-[18px] leading-[24px]
                           md:text-[30px] md:leading-[38px]
@@ -76,7 +76,7 @@ const next = () => {
         <template v-if="elements.length > 1">
             <button
                 @click="prev"
-                class="absolute left-2 md:left-5 top-1/2 z-30 -translate-y-1/2 bg-white/80 md:bg-white/90 backdrop-blur-sm rounded-full p-1.5 md:p-2 shadow-sm hover:bg-[var(--color-light-green)] transition-all duration-300 hover:scale-110 group-hover:opacity-100 md:opacity-0 opacity-100"
+                class="absolute left-2 md:left-5 top-[40%] md:top-1/2 z-30 -translate-y-1/2 bg-white/80 md:bg-white/90 backdrop-blur-sm rounded-full p-1.5 md:p-2 shadow-sm hover:bg-[var(--color-light-green)] transition-all duration-300 hover:scale-110 group-hover:opacity-100 md:opacity-0 opacity-100"
                 aria-label="Précédent"
             >
                 <BaseIcon title="ph:arrow-left" :size="18" class="md:hidden" color="var(--color-blue)" />
@@ -85,7 +85,7 @@ const next = () => {
             
             <button
                 @click="next"
-                class="absolute right-2 md:right-5 top-1/2 z-30 -translate-y-1/2 bg-white/80 md:bg-white/90 backdrop-blur-sm rounded-full p-1.5 md:p-2 shadow-sm hover:bg-[var(--color-light-green)] transition-all duration-300 hover:scale-110 group-hover:opacity-100 md:opacity-0 opacity-100"
+                class="absolute right-2 md:right-5 top-[40%] md:top-1/2 z-30 -translate-y-1/2 bg-white/80 md:bg-white/90 backdrop-blur-sm rounded-full p-1.5 md:p-2 shadow-sm hover:bg-[var(--color-light-green)] transition-all duration-300 hover:scale-110 group-hover:opacity-100 md:opacity-0 opacity-100"
                 aria-label="Suivant"
             >
                 <BaseIcon title="ph:arrow-right" :size="18" class="md:hidden" color="var(--color-blue)" />

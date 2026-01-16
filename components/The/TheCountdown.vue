@@ -9,7 +9,7 @@ const days = Math.ceil(deltaTime / (24 * 3600 * 1000));
 </script>
 
 <template>
-  <section class="w-full max-w-[1362px] mx-auto px-5 mb-8">
+  <section class="w-full max-w-[1362px] mx-auto px-5">
     
     <div class="w-full bg-white rounded-[12px] shadow-sm p-6 md:p-8 flex flex-col md:flex-row items-center justify-between gap-6 border border-[#01647C]/10">
         

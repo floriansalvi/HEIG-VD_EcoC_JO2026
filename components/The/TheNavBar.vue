@@ -33,7 +33,7 @@ const handleNavClick = (url) => {
 </script>
 
 <template>
-    <div class="w-full px-4 md:px-0 mx-auto max-w-[1362px] mt-6 relative z-40">
+    <div class="w-full px-4 md:px-0 mx-auto max-w-[1362px] relative z-40">
         
         <nav class="bg-[var(--color-blue)] text-white rounded-full shadow-md px-6 py-3 md:px-8 flex items-center justify-between relative min-h-[70px]">
             
@@ -114,7 +114,7 @@ const handleNavClick = (url) => {
                 </a>
                 <button class="w-full text-left px-6 py-3 font-[Poppins] font-medium text-[16px] text-white hover:bg-[var(--color-light-green)] hover:text-[var(--color-dark-blue)] rounded-lg flex items-center justify-between">
                     <span>Langue : FR</span>
-                    <BaseIcon title="heroicons:chevron-down" :size="16" color="currentColor" />
+                    <BaseIcon title="lucide:chevron-down" :size="16" color="currentColor" />
                 </button>
             </div>
         </nav>

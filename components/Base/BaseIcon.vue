@@ -15,6 +15,10 @@ const props = defineProps({
     ariaLabel: {
         type: String,
         default: ""
+    },
+    border: {
+        type: Boolean,
+        default: false
     }
 });
 </script>
