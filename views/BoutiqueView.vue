@@ -64,6 +64,7 @@ const isNextDisabled = computed(() => currentIndex.value === maxIndex.value)
             :button="link.button"
             :img="link.img"
             imgClass="w-full h-full object-cover object-top"
+            preset="card"
         />
     </div>
     <BasePagination 
