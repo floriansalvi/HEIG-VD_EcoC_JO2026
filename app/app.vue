@@ -7,6 +7,8 @@ import cta from '../data/cta.json';
 import BaseCTACard from '../components/Base/BaseCTACard.vue';
 import banners from '../data/banners.json'
 import BaseBanner from '../components/Base/BaseBanner.vue';
+import BoutiqueView from '../views/BoutiqueView.vue';
+import SportsView from '../views/SportsView.vue';
 
 </script>
 
@@ -22,6 +24,8 @@ import BaseBanner from '../components/Base/BaseBanner.vue';
       :button="cta[0].button"
       :flipped="cta[0].flipped"
     />
+    <BoutiqueView/>
+    <SportsView/>
     <BaseBanner
       :title="banners[0].title"
       :img="banners[0].img"

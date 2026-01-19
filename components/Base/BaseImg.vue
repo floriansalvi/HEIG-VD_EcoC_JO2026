@@ -25,7 +25,11 @@ const props = defineProps({
 
 <template>
   <div class="" :class="wrapperClass">
-    <NuxtImg :src="src" :alt="alt" :class="imgClass"/>
+    <NuxtImg
+        v-if="typeof src === 'string' && src.length > 0"
+        :src="src"
+        :alt="alt"
+        :class="imgClass"/>
     <div v-if="copyright" class="">{{ copyright }}</div>
   </div>
 </template>

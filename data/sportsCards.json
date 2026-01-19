@@ -1,0 +1,274 @@
+[
+    {
+        "title": "Biathlon",
+        "img": {
+            "src": "/images/sport1.png",
+            "alt": "Biathlon"
+        },
+        "button": {
+            "text": "",
+            "url": "https://shop.olympics.com/fr/milano-cortina-2026/mascot-collection/t-13364516+c-1223135966+z-98-1285011308?_s=bm-fi-olympic-shop-prtsite-GTWA-homepage-carousel-140925-am&loc=fr-FR",
+            "inverted": false,
+            "icon": {
+                "title": "ph:arrow-right",
+                "size": 32,
+                "color": "inherit"
+            }
+        }
+    },
+    {
+        "title": "Bobsleigh",
+        "img": {
+            "src": "/images/sport2.png",
+            "alt": "Bobsleigh"
+        },
+        "button": {
+            "text": "",
+            "url": "https://shop.olympics.com/milano-cortina-2026/t-35589049+z-9774796-1238555770?_s=bm-fi-olympic-shop-prtsite-GTWA-homepage-carousel-140925-am&loc=fr-FR&query=milano%20cortina&sortOption=NewestArrivals",
+            "inverted": false,
+            "icon": {
+                "title": "ph:arrow-right",
+                "size": 32,
+                "color": "inherit"
+            }
+        }
+    },
+    {
+        "title": "Combiné nordique",
+        "img": {
+            "src": "/images/sport3.png",
+            "alt": "Combiné nordique"
+        },
+        "button": {
+            "text": "",
+            "url": "https://shop.olympics.com/fr/milano-cortina-2026/collectibles-and-memorabilia/t-46146727+d-19558893+z-971-3390822431?_s=bm-fi-olympic-shop-prtsite-GTWA-homepage-carousel-140925-am&loc=fr-FR",
+            "inverted": false,
+            "icon": {
+                "title": "ph:arrow-right",
+                "size": 32,
+                "color": "inherit"
+            }
+        }
+    },
+    {
+        "title": "Curling",
+        "img": {
+            "src": "/images/sport4.png",
+            "alt": "Curling"
+        },
+        "button": {
+            "text": "",
+            "url": "https://shop.olympics.com/?_ref=p-TLP%3Am-SEARCH&loc=fr-FR&query=salomon&_s=bm-fi-prtsite-MICO26-homepage-carousel-salomon-181225-fv",
+            "inverted": false,
+            "icon": {
+                "title": "ph:arrow-right",
+                "size": 32,
+                "color": "inherit"
+            }
+        }
+    },
+    {
+        "title": "Hockey sur glace",
+        "img": {
+            "src": "/images/sport5.png",
+            "alt": "Hockey sur glace"
+        },
+        "button": {
+            "text": "",
+            "url": "https://shop.olympics.com/fr/milano-cortina-2026/mascot-collection/t-13364516+c-1223135966+z-98-1285011308?_s=bm-fi-olympic-shop-prtsite-GTWA-homepage-carousel-140925-am&loc=fr-FR",
+            "inverted": false,
+            "icon": {
+                "title": "ph:arrow-right",
+                "size": 32,
+                "color": "inherit"
+            }
+        }
+    },
+    {
+        "title": "Luge",
+        "img": {
+            "src": "/images/sport6.png",
+            "alt": "Luge"
+        },
+        "button": {
+            "text": "",
+            "url": "https://shop.olympics.com/milano-cortina-2026/t-35589049+z-9774796-1238555770?_s=bm-fi-olympic-shop-prtsite-GTWA-homepage-carousel-140925-am&loc=fr-FR&query=milano%20cortina&sortOption=NewestArrivals",
+            "inverted": false,
+            "icon": {
+                "title": "ph:arrow-right",
+                "size": 32,
+                "color": "inherit"
+            }
+        }
+    },
+    {
+        "title": "Patinage artistique",
+        "img": {
+            "src": "/images/sport7.png",
+            "alt": "Patinage artistique"
+        },
+        "button": {
+            "text": "",
+            "url": "https://shop.olympics.com/fr/milano-cortina-2026/collectibles-and-memorabilia/t-46146727+d-19558893+z-971-3390822431?_s=bm-fi-olympic-shop-prtsite-GTWA-homepage-carousel-140925-am&loc=fr-FR",
+            "inverted": false,
+            "icon": {
+                "title": "ph:arrow-right",
+                "size": 32,
+                "color": "inherit"
+            }
+        }
+    },
+    {
+        "title": "Patinage de vitesse",
+        "img": {
+            "src": "/images/sport8.png",
+            "alt": "Patinage de vitesse"
+        },
+        "button": {
+            "text": "",
+            "url": "https://shop.olympics.com/?_ref=p-TLP%3Am-SEARCH&loc=fr-FR&query=salomon&_s=bm-fi-prtsite-MICO26-homepage-carousel-salomon-181225-fv",
+            "inverted": false,
+            "icon": {
+                "title": "ph:arrow-right",
+                "size": 32,
+                "color": "inherit"
+            }
+        }
+    },
+    {
+        "title": "Patinage de vitesse sur piste courte",
+        "img": {
+            "src": "/images/sport9.png",
+            "alt": "Patinage de vitesse sur piste courte"
+        },
+        "button": {
+            "text": "",
+            "url": "https://shop.olympics.com/fr/milano-cortina-2026/mascot-collection/t-13364516+c-1223135966+z-98-1285011308?_s=bm-fi-olympic-shop-prtsite-GTWA-homepage-carousel-140925-am&loc=fr-FR",
+            "inverted": false,
+            "icon": {
+                "title": "ph:arrow-right",
+                "size": 32,
+                "color": "inherit"
+            }
+        }
+    },
+    {
+        "title": "Saut à ski",
+        "img": {
+            "src": "/images/sport10.png",
+            "alt": "Saut à ski"
+        },
+        "button": {
+            "text": "",
+            "url": "https://shop.olympics.com/milano-cortina-2026/t-35589049+z-9774796-1238555770?_s=bm-fi-olympic-shop-prtsite-GTWA-homepage-carousel-140925-am&loc=fr-FR&query=milano%20cortina&sortOption=NewestArrivals",
+            "inverted": false,
+            "icon": {
+                "title": "ph:arrow-right",
+                "size": 32,
+                "color": "inherit"
+            }
+        }
+    },
+    {
+        "title": "Skeleton",
+        "img": {
+            "src": "/images/sport11.png",
+            "alt": "Skeleton"
+        },
+        "button": {
+            "text": "",
+            "url": "https://shop.olympics.com/fr/milano-cortina-2026/collectibles-and-memorabilia/t-46146727+d-19558893+z-971-3390822431?_s=bm-fi-olympic-shop-prtsite-GTWA-homepage-carousel-140925-am&loc=fr-FR",
+            "inverted": false,
+            "icon": {
+                "title": "ph:arrow-right",
+                "size": 32,
+                "color": "inherit"
+            }
+        }
+    },
+    {
+        "title": "Ski acrobatique",
+        "img": {
+            "src": "/images/sport12.png",
+            "alt": "Ski acrobatique"
+        },
+        "button": {
+            "text": "",
+            "url": "https://shop.olympics.com/?_ref=p-TLP%3Am-SEARCH&loc=fr-FR&query=salomon&_s=bm-fi-prtsite-MICO26-homepage-carousel-salomon-181225-fv",
+            "inverted": false,
+            "icon": {
+                "title": "ph:arrow-right",
+                "size": 32,
+                "color": "inherit"
+            }
+        }
+    },
+    {
+        "title": "Ski alpin",
+        "img": {
+            "src": "/images/sport13.png",
+            "alt": "Ski alpin"
+        },
+        "button": {
+            "text": "",
+            "url": "https://shop.olympics.com/fr/milano-cortina-2026/mascot-collection/t-13364516+c-1223135966+z-98-1285011308?_s=bm-fi-olympic-shop-prtsite-GTWA-homepage-carousel-140925-am&loc=fr-FR",
+            "inverted": false,
+            "icon": {
+                "title": "ph:arrow-right",
+                "size": 32,
+                "color": "inherit"
+            }
+        }
+    },
+    {
+        "title": "Ski de fond",
+        "img": {
+            "src": "/images/sport14.png",
+            "alt": "Ski de fond"
+        },
+        "button": {
+            "text": "",
+            "url": "https://shop.olympics.com/milano-cortina-2026/t-35589049+z-9774796-1238555770?_s=bm-fi-olympic-shop-prtsite-GTWA-homepage-carousel-140925-am&loc=fr-FR&query=milano%20cortina&sortOption=NewestArrivals",
+            "inverted": false,
+            "icon": {
+                "title": "ph:arrow-right",
+                "size": 32,
+                "color": "inherit"
+            }
+        }
+    },
+    {
+        "title": "Ski-Alpinisme",
+        "img": {
+            "src": "/images/sport15.png",
+            "alt": "Ski-Alpinisme"
+        },
+        "button": {
+            "text": "",
+            "url": "https://shop.olympics.com/fr/milano-cortina-2026/collectibles-and-memorabilia/t-46146727+d-19558893+z-971-3390822431?_s=bm-fi-olympic-shop-prtsite-GTWA-homepage-carousel-140925-am&loc=fr-FR",
+            "inverted": false,
+            "icon": {
+                "title": "ph:arrow-right",
+                "size": 32,
+                "color": "inherit"
+            }
+        }
+    },
+    {
+        "title": "Snowboard",
+        "img": {
+            "src": "/images/sport16.png",
+            "alt": "Snowboard"
+        },
+        "button": {
+            "text": "",
+            "url": "https://shop.olympics.com/?_ref=p-TLP%3Am-SEARCH&loc=fr-FR&query=salomon&_s=bm-fi-prtsite-MICO26-homepage-carousel-salomon-181225-fv",
+            "inverted": false,
+            "icon": {
+                "title": "ph:arrow-right",
+                "size": 32,
+                "color": "inherit"
+            }
+        }
+    }
+]
