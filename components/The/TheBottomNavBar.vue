@@ -49,7 +49,7 @@ const handleNavClick = (url) => {
                     :to="social.url"
                     class="text-[var(--color-blue)] hover:text-[var(--color-blue)]"
                 >
-                    <BaseIcon :title="social.icon" size="32" />
+                    <BaseIcon :title="social.icon" :size="32" />
                 </NuxtLink>
             </div>
         </nav>

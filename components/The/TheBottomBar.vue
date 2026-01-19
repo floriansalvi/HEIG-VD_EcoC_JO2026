@@ -13,7 +13,7 @@ const props = defineProps({
         required: false,
         validator: (value) =>
             Array.isArray(value) && value.every(link =>
-                link.txt && link.src && link.external
+                link.txt && link.src
             )
     },
     wrapperClass: {

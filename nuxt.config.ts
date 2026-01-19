@@ -38,8 +38,7 @@ export default defineNuxtConfig({
           modifiers: {
             format: 'avif',
             quality: 80,
-            width: 384,
-            height: 216
+            width: 384
           }
         },
         hero: {
