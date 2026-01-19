@@ -10,6 +10,7 @@ import BaseBanner from '../components/Base/BaseBanner.vue';
 import BoutiqueView from '../views/BoutiqueView.vue';
 import SportsView from '../views/SportsView.vue';
 import FooterView from '../views/FooterView.vue';
+import TheMapView from '../views/TheMapView.vue';
 
 </script>
 
@@ -17,6 +18,7 @@ import FooterView from '../views/FooterView.vue';
 
   <div class="flex flex-col gap-12 md:gap-14 lg:gap-20">
     <HeaderView/>
+    <TheMapView/>
     <ContentView/>
     <BaseCTACard
       :title="cta[0].title"
