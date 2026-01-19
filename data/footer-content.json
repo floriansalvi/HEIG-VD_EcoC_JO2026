@@ -1,0 +1,149 @@
+{
+  "bottomBar": [
+    "Copyright 2025. Tous droits réservés"
+  ],
+  "bottomBarLinks": [
+    {
+      "txt": "Politique des cookies",
+      "src": "https://www.olympics.com/fr/cookie-policy",
+      "external": false
+    },
+    {
+      "txt": "Cookie settings",
+      "src": "https://www.olympics.com/fr/milano-cortina-2026#",
+      "external": false
+    },
+    {
+      "txt": "Politique de confidentialité",
+      "src": "https://www.olympics.com/fr/privacy-policy",
+      "external": false
+    },
+    {
+      "txt": "Condition d'utilisation",
+      "src": "https://www.olympics.com/fr/terms-of-service",
+      "external": false
+    },
+    {
+      "txt": "Contactez-nous",
+      "src": "https://www.olympics.com/fr/milano-cortina-2026/web-accessibilite",
+      "external": false
+    }
+  ],
+  "navItems": [
+    { "label": "Olympics Channel", "url": "https://www.olympics.com/fr/olympic-channel" },
+    { "label": "CIO", "url": "https://www.olympics.com/cio" },
+    { "label": "Musée Olympique", "url": "https://www.olympics.com/musee" },
+    { "label": "Boutique", "url": "https://shop.olympics.com/en/milano-cortina-2026/t-35589049+z-9774796-1238555770?_s=bm-fi-ioc-prtsite-IOC-MiCo26-topbutton-am" },
+    { "label": "Contactez-nous", "url": "https://support.olympics.com/hc/fr" }
+  ],
+  "socials": [
+    { "icon": "ph:spotify-logo", "url": "https://open.spotify.com/artist/1h6Xm6QBDGfKihrrtNiD7R" },
+    { "icon": "ph:facebook-logo", "url": "https://www.facebook.com/OlimpiadiMilanoCortina2026" },
+    { "icon": "ph:tiktok-logo", "url": "https://www.tiktok.com/@milanocortina2026" },
+    { "icon": "ph:youtube-logo", "url": "https://www.youtube.com/channel/UC-3ef0mTN_RDliSRsrIEbHg" },
+    { "icon": "ph:x-logo", "url": "https://x.com/milanocortina26" },
+    { "icon": "ph:linkedin-logo", "url": "https://www.linkedin.com/company/milano-cortina-2026" },
+    { "icon": "ph:instagram-logo", "url": "https://www.instagram.com/milanocortina2026" }
+  ],
+  "content": {
+    "sponsor": [
+
+    ],
+    "paraGames": {
+      "url": "https://www.olympics.com/fr/milano-cortina-2026/jeux-paralympiques",
+      "alt": "Passez aux Jeux Paralympiques"
+    },
+    "games": [
+      {
+        "url": "https://www.olympics.com/fr/milano-cortina-2026/schedule/overview",
+        "alt": "Calendrier"
+      },
+      {
+        "url": "https://www.olympics.com/fr/milano-cortina-2026/sports",
+        "alt": "Sports"
+      },
+      {
+        "url": "https://www.olympics.com/fr/milano-cortina-2026/territoires",
+        "alt": "Territoires"
+      },
+      {
+        "url": "https://www.olympics.com/fr/milano-cortina-2026/sites",
+        "alt": "Sites"
+      },
+      {
+        "url": "https://www.olympics.com/fr/milano-cortina-2026/relais-de-la-flamme-olympique",
+        "alt": "Relais de la Flamme Olympique"
+      }
+    ],
+    "joinGames": [
+      {
+        "url": "https://fan26.olympics.com/fr/fan26",
+        "alt": "Fan26"
+      },
+      {
+        "url": "https://www.olympics.com/fr/milano-cortina-2026/italia-dei-giochi",
+        "alt": "Italia dei Giochi"
+      },
+      {
+        "url": "https://www.olympics.com/fr/milano-cortina-2026/devenez-partenaire",
+        "alt": "Devenez partenaire"
+      },
+      {
+        "url": "https://www.olympics.com/fr/milano-cortina-2026/nos-projets/impact-2026",
+        "alt": "Devenez un fournisseur Impact"
+      },
+      {
+        "url": "https://www.olympics.com/fr/milano-cortina-2026/devenez-licencie",
+        "alt": "Devenez Licencié"
+      }
+    ],
+    "about": [
+      {
+        "url": "https://www.olympics.com/fr/milano-cortina-2026/a-propos",
+        "alt": "À propos de Milano Cortina 2026"
+      },
+      {
+        "url": "https://www.olympics.com/fr/milano-cortina-2026/a-propos/le-board",
+        "alt": "Conseil d'administration"
+      },
+      {
+        "url": "https://www.olympics.com/fr/milano-cortina-2026/a-propos/commission-athletes",
+        "alt": "Commission des athlètes Cat26"
+      },
+      {
+        "url": "https://www.olympics.com/fr/milano-cortina-2026/marque",
+        "alt": "L'Esprit italien"
+      },
+      {
+        "url": "https://www.olympics.com/fr/milano-cortina-2026/marque/mascotte",
+        "alt": "Mascottes"
+      },
+      {
+        "url": "https://www.olympics.com/fr/milano-cortina-2026/marque/look-of-the-games",
+        "alt": "Identité visuelle des Jeux"
+      },
+      {
+        "url": "https://www.olympics.com/fr/milano-cortina-2026/marque/les-medailles",
+        "alt": "Les médailles"
+      },
+      {
+        "url": "https://www.olympics.com/fr/milano-cortina-2026/documents",
+        "alt": "Documents"
+      }
+    ],
+    "projects": [
+      {
+        "url": "https://www.olympics.com/fr/milano-cortina-2026/nos-projets/",
+        "alt": "Explorer les projets"
+      },
+      {
+        "url": "https://www.olympics.com/fr/milano-cortina-2026/nos-projets/label-gen26",
+        "alt": "Label Gen26"
+      },
+      {
+        "url": "https://www.olympics.com/fr/milano-cortina-2026/nos-projets/cultural-olympiad",
+        "alt": "Vue d'ensemble"
+      }
+    ]
+  }
+}

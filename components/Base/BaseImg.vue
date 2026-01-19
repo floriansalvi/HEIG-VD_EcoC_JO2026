@@ -30,6 +30,9 @@ const props = defineProps({
         :src="src"
         :alt="alt"
         :class="imgClass"/>
+        format="webp"
+        lazy
+        placeholder="blur"
     <div v-if="copyright" class="">{{ copyright }}</div>
   </div>
 </template>

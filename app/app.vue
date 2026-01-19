@@ -9,6 +9,7 @@ import banners from '../data/banners.json'
 import BaseBanner from '../components/Base/BaseBanner.vue';
 import BoutiqueView from '../views/BoutiqueView.vue';
 import SportsView from '../views/SportsView.vue';
+import FooterView from '../views/FooterView.vue';
 
 </script>
 
@@ -53,5 +54,6 @@ import SportsView from '../views/SportsView.vue';
       :flipped="cta[2].flipped"
     />
     <FAQView/>
+    <FooterView/>
   </div>
 </template>
