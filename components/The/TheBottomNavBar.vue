@@ -33,7 +33,7 @@ const handleNavClick = (url) => {
                         <a 
                             :href="item.url"
                             @click.prevent="handleNavClick(item.url)"
-                            class="font-[Poppins] font-medium text-[16px] text-[var(--color-blue)] hover:text-[var(--color-light-green)] transition-colors relative group py-2"
+                            class="font-[Poppins] font-medium text-[16px] text-[var(--color-blue)] hover:text-[var(--color-blue)] transition-colors relative group py-2"
                         >
                             {{ item.label }}
                             <span class="absolute bottom-0 left-0 w-0 h-[2px] bg-[var(--color-blue)] transition-all duration-300 group-hover:w-full"></span>
@@ -47,7 +47,7 @@ const handleNavClick = (url) => {
                     v-for="(social, index) in socials"
                     :key="index"
                     :to="social.url"
-                    class="text-[var(--color-blue)] hover:text-[var(--color-light-green)]"
+                    class="text-[var(--color-blue)] hover:text-[var(--color-blue)]"
                 >
                     <BaseIcon :title="social.icon" size="32" />
                 </NuxtLink>

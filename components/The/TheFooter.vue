@@ -31,7 +31,7 @@ import footerData from '../data/footer-content.json';
             <div class="w-full p-0 inline-flex flex-col justify-center items-start gap-8">
                 <div class="inline-flex justify-center items-center gap-2.5">
                     <div class="w-36 h-40 relative overflow-hidden">
-                        <img src="/images/mico-logo.webp" alt="">
+                        <img src="/images/mico-logo.avif" alt="">
                     </div>
                 </div>
                 <div class="self-stretch flex flex-col justify-center items-start gap-5">
