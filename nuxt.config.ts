@@ -8,7 +8,9 @@ export default defineNuxtConfig({
   css: [
     '~/assets/css/variables.css'
   ],
-
+  nitro: {
+    preset: 'netlify'
+  },
   modules: [
     '@nuxtjs/tailwindcss',
 
