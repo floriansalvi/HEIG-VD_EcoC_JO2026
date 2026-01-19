@@ -19,7 +19,7 @@ import footerData from '../data/footer-content.json';
                 </div>
                 <div class="w-full grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 lg:grid-cols-6 gap-4 md:gap-6 items-center">
                     <img class="w-full h-24 object-contain" src="/images/Logo_of_Deloitte.svg" alt="deloitte" />
-                    <img class="w-full h-24 object-contain filter brightness-0 invert" src="/images/omega.png" alt="omega" />
+                    <img class="w-full h-24 object-contain filter brightness-0 invert" src="/images/omega.avif" alt="omega" />
                     <img class="w-full h-24 object-contain" src="/images/P&G_logo.svg" alt="p&g" />
                     <img class="w-full h-24 object-contain" src="/images/samsungLogo.svg" alt="samsung" />
                     <img class="w-full h-24 object-contain" src="/images/tclLogo.svg" alt="tcl" />
